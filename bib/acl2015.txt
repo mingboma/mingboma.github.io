@@ -1,0 +1,11 @@
+@InProceedings{ming:ACL2015,
+  author    = {Mingbo Ma and Liang Huang and Bing Xiang and Bowen Zhou},
+  title     = {Dependency-based Convolutional Neural Networks for Sentence Embedding},
+  booktitle = {Proceedings of the 53st Annual Meeting of the Association for Computational Linguistics (ACL)},
+  month     = {July},
+  year      = {2015},
+  address   = {Beijing, China},
+  publisher = {Association for Computational Linguistics},
+  pages     = {174--179},
+  url       = {http://aclweb.org/anthology/P/P15/P15-2029.pdf}
+}
